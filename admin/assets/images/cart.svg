@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34.623" height="31.279" viewBox="0 0 34.623 31.279">
+  <g id="Group_323" data-name="Group 323" transform="translate(-74.882 -345.475)">
+    <g id="cart" transform="translate(74.007 349.974)">
+      <path id="Path_36" data-name="Path 36" d="M8.741,5.358V7.051H24.819V10.4l-1.878,5.958H8.208L6.093,1.125H1.125V2.817H4.619L6.735,18.052H24.183l2.329-7.39v-5.3Z" transform="translate(0 0)" fill="#3b3026" stroke="#3b3026" stroke-width="0.5"/>
+      <path id="Path_37" data-name="Path 37" d="M11.329,25.9a3.385,3.385,0,1,0,3.385,3.385A3.389,3.389,0,0,0,11.329,25.9Zm0,5.077a1.692,1.692,0,1,1,1.692-1.692A1.692,1.692,0,0,1,11.329,30.976Z" transform="translate(-1.69 -6.139)" fill="#3b3026" stroke="#3b3026" stroke-width="0.5"/>
+      <path id="Path_38" data-name="Path 38" d="M27.079,25.9a3.385,3.385,0,1,0,3.385,3.385A3.389,3.389,0,0,0,27.079,25.9Zm0,5.077a1.692,1.692,0,1,1,1.692-1.692,1.692,1.692,0,0,1-1.692,1.692Z" transform="translate(-5.593 -6.139)" fill="#3b3026" stroke="#3b3026" stroke-width="0.5"/>
+    </g>
+    <g id="Group_323-2" data-name="Group 323" transform="translate(-3.57 -3)">
+      <path id="Path_24" data-name="Path 24" d="M113.551,357.6a8.633,8.633,0,1,1-8.632-8.633,8.632,8.632,0,0,1,8.632,8.633" transform="translate(-0.475 -0.493)" fill="#d99a2d"/>
+      <text id="_5" data-name="5" transform="translate(100.811 360.475)" fill="#fff" font-size="11" font-family="MarkPro-Medium, Mark Pro" font-weight="500"><tspan x="0" y="0">5</tspan></text>
+    </g>
+  </g>
+</svg>
